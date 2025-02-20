@@ -26,13 +26,13 @@ function App() {
       image: "/character/one.png",
     },
     {
-      content: `Hey Dami, recently, we met.
+      content: `Hey , recently, we met.
       And somehow, you've been on my mind ever since.
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date(I won't really call it an official date but you remember "MP01")…And I realized—yep, I want this girl.
+      content: `Then we went on our first date And I realized—yep, I want this girl.
       `,
       image: "/character/three.png",
     },
